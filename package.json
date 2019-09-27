@@ -1,0 +1,14 @@
+{
+  "name": "appnamer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "API_KEY.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.0"
+  }
+}
